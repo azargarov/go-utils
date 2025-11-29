@@ -16,9 +16,6 @@ This library encapsulates common patterns for logging, worker-pools, network fet
 ```bash
 go get github.com/azargarov/go-utils@latest
 ```
-<!-- BENCHMARKS:START -->
-<!-- BENCHMARKS:END -->
-
 ## Usage Examples
 
 ### Worker pool (wpool)
